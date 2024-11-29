@@ -1,0 +1,1 @@
+path = 'PUT_THE_PATH_OF_THE_IMAGE_HERE'
