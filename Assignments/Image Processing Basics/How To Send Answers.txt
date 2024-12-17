@@ -1,0 +1,80 @@
+# How to Submit Your Assignment
+
+Follow these steps to organize and submit your answer for the **Matrix-based Battleship Game** assignment. The submission process involves creating a folder with your name in the assignment repository and sending a **pull request** (PR) to the original repository.
+
+---
+
+### 1. Create a Folder with Your Name
+
+1. Navigate to the assignment repository (the one you have been given access to).
+2. Inside the repository, create a new folder. Name the folder using your **full name** (e.g., "John_Doe" or "Jane_Smith").
+3. This folder will contain all your work for the assignment.
+
+---
+
+### 2. Organize Your Files
+
+Inside your folder (e.g., `John_Doe/`), please add the following files:
+
+- **Python file**: Name your Python file `battleship.py`. This should contain the complete implementation of the game logic.
+- **README.md (optional)**: If you have any extra explanations, code walkthroughs, or details, include a `README.md` file. However, the main documentation (assignment details) is already in the original repository, so this is optional.
+- **How_to_run.txt (optional)**: If necessary, include a short file with instructions on how to run your Python code (if it requires any special setup, dependencies, or environments).
+
+The final structure of your folder should look like this:
+
+assignment-repository/ └── John_Doe/ ├── battleship.py ├── README.md (optional) └── How_to_run.txt (optional)
+
+
+3. **Commit** your changes.
+
+---
+
+### 4. Push Your Changes to GitHub
+
+1. **Push your branch** to your forked repository (or to the repository if you have direct write access).
+2. Make sure the files are pushed to your folder in the main directory.
+
+---
+
+### 5. Create a Pull Request (PR)
+
+1. Go to the **original repository** (the one you forked or were given access to).
+2. Click on **Pull Requests** in the repository.
+3. Create a **new pull request**.
+4. Select your branch (the one where you pushed your folder) and compare it with the `main` branch (or `master` branch, depending on the project setup).
+5. In the pull request description, add a brief message about the work you’ve done, like:
+
+This pull request contains my solution for the Matrix-based Battleship Game assignment. All files are organized inside my folder "John_Doe".
+
+6. **Submit the pull request**. The project maintainer will review your work, and you will be notified once the PR is merged.
+
+---
+
+### 6. Wait for Feedback
+
+After submitting your pull request, the project maintainer will review your code. If there are any issues or improvements to make, they will leave feedback. Be ready to make changes and update your pull request if needed.
+
+---
+
+### 7. Make Sure You Follow the Naming and Folder Structure
+
+It is **very important** to follow the folder and file naming convention:
+- Folder name: **Your full name** (e.g., `John_Doe`)
+- Python file: `battleship.py`
+- Optional: `README.md` for explanations or extra features.
+
+This helps in keeping the repository organized and ensures that the project maintainer can easily identify your submission.
+
+---
+
+### Summary of Submission Process
+
+1. Create a folder with **your name** (e.g., `John_Doe`).
+2. Put all your assignment files (e.g., `battleship.py`) in your folder.
+3. Commit and push your changes to your repository.
+4. Create a pull request to the original repository.
+5. Wait for feedback and make any necessary adjustments.
+
+---
+
+Good luck with your assignment! If you have any questions, feel free to reach out.
